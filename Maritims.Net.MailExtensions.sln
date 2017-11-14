@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maritims.Net.MailExtensions.Tests", "VariousHacks.Test\Maritims.Net.MailExtensions.Tests.csproj", "{97167BB0-DDB8-4951-9549-8BB9B778354D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maritims.Net.MailExtensions.Tests", "Maritims.Net.MailExtensions.Tests\Maritims.Net.MailExtensions.Tests.csproj", "{97167BB0-DDB8-4951-9549-8BB9B778354D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maritims.Net.MailExtensions", "Maritims.Net.MailExtensions\Maritims.Net.MailExtensions.csproj", "{D279D0F5-853B-4F00-964F-96603EB6C00B}"
 EndProject
