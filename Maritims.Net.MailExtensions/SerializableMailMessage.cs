@@ -1,12 +1,9 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Net.Mail;
 using System.Runtime.Serialization;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace VariousHacks.Tests
+namespace Maritims.Net.MailExtensions
 {
     public class SerializableMailMessage : MailMessage, ISerializable
     {

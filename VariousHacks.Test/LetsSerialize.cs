@@ -1,13 +1,9 @@
-﻿using Newtonsoft.Json;
+﻿using Maritims.Net.MailExtensions;
+using Newtonsoft.Json;
 using NUnit.Framework;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net.Mail;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace VariousHacks.Tests
+namespace Maritims.Net.MailExtensions.Tests
 {
     public class LetsSerialize
     {
